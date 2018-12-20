@@ -1,2 +1,2 @@
 # Assignment12
-Polynomial ﬁt with a regularization 
+This is a Data-Mining class project at Chung-Ang University
